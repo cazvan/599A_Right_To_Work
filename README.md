@@ -21,7 +21,7 @@ Although Right to Work laws may seem beneficial to some, critics argue that they
 
 
 In the repo you can find:
-* <a href="https://github.com/EvanLih/PUBPOL599_Right_To_Work/tree/master/Dataset">Original Data Files</a>
-* <a href="https://github.com/EvanLih/PUBPOL599_Right_To_Work/blob/master/Dataset/Right%20to%20Work%20by%20State.csv">Preprocessed Data</a>
-* <a href="https://github.com/EvanLih/PUBPOL599_Right_To_Work/blob/master/Data_Preprocessing/Preprocessing_Notebook.ipynb">Python Code</a>
-*	<a href="https://evanlih.github.io/PUBPOL599_Right_To_Work/?fbclid=IwAR2LaNQcoSD8XJGfYyr5PbLCh3YbcGAU1raF0g1OmVsFy33aQHi8hsKUfaM">Final Report</a>
+* <a href="https://github.com/cazvan/599A_Right_To_Work/tree/master/Dataset">Original Data Files</a>
+* <a href="https://github.com/cazvan/599A_Right_To_Work/blob/master/Dataset/Right%20to%20Work%20by%20State.csv">Preprocessed Data</a>
+* <a href="https://github.com/cazvan/599A_Right_To_Work/blob/master/Data_Preprocessing/Preprocessing_Notebook.ipynb">Python Code</a>
+*	<a href="https://cazvan.github.io/599A_Right_To_Work/">Final Report</a>
